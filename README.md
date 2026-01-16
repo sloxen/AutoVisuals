@@ -349,11 +349,6 @@ Maintained by **Sloths Visuals** of [**Sloths Intel GitHub**](https://github.com
 # About Sloths Visuals
 
 A creative visualisation brand under [**Sloths Intel**](https://slothsintel.com), specialising in data visulisation and automated illustration pipelines.
-<p align="right">
-  <a href="#top" style="text-decoration:none;">
-    ⬆️
-  </a>
-</p>
 
 ---
 
@@ -367,8 +362,14 @@ Registered in England and Wales (Company No. 16907507)
 
 ---
 
-## Links
+# Links
 
 * [AutoVisuals Website](https://autovisuals.slothsintel.com)
 * [AutoVisuals GitHub](https://github.com/slothsintel/autovisuals)
 * [Company homepage](https://slothsintel.com)
+
+<p align="right">
+  <a href="#top" style="text-decoration:none;">
+    ⬆️
+  </a>
+</p>
