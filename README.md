@@ -38,8 +38,9 @@
 - [Theme List Format](#Theme-List-Format)
 - [Future Modules](#Future-Modules)
 - [Contribution](#Contribution)
-- [License](#License)
 - [About Sloths Visuals](#About-Sloths-Visuals)
+- [License](#License)
+- [Links](#Links)
 
 ---
 
