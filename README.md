@@ -354,11 +354,12 @@ A creative visualisation brand under [**Sloths Intel**](https://slothsintel.com)
 
 # License
 
-MIT License.
+© 2025–2026 **Sloths Intel**.
 
-© 2025–2026 **Sloths Intel**
-AutoVisuals is a trading name of **Sloths Intel Ltd**
-Registered in England and Wales (Company No. 16907507)
+A trading name of **Sloths Intel Ltd**
+Registered in England and Wales (Company No. 16907507).
+
+MIT License.
 
 ---
 
