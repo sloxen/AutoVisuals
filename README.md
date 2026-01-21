@@ -355,7 +355,7 @@ A creative visualisation brand under [**Sloths Intel**](https://slothsintel.com)
 
 # License
 
-© 2025–2026 **Sloths Intel**.
+© 2026 **Sloths Intel**.
 
 A trading name of **Sloths Intel Ltd**
 Registered in England and Wales (Company No. 16907507).
