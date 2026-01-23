@@ -37,7 +37,7 @@ DEFAULT_THEME_CSV = "autovisuals/data/adobe_cat.csv"
 DEFAULT_OUT_PROMPT = "prompt"
 DEFAULT_DOWNLOAD_DIR = "mj_downloads"
 DEFAULT_GALLERY_HTML = "mj_gallery.html"
-DEFAULT_IDLE_SECONDS = 120  # 2 minutes default idle timeout
+DEFAULT_IDLE_SECONDS = 180  # 3 minutes default idle timeout
 
 
 # ------------------------------------------------------------------
@@ -243,7 +243,7 @@ def build_parser() -> argparse.ArgumentParser:
         "-d",
         "--records",
         type=int,
-        default=5,
+        default=10,
         help="number of prompts for each theme and title, 5 by default.",
     )
     pipe.add_argument(
