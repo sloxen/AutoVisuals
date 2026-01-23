@@ -687,7 +687,7 @@ def make_shutterstock_row(
         "Categories": shutter_cat,
         "Editorial": "no",
         "Mature content": "no",
-        "illustration": "yes",
+        "illustration": "no",
     }
 
 
