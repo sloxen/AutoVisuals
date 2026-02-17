@@ -343,13 +343,7 @@ sunset over mountains,5
 
 # Contribution
 
-Maintained by **Sloths Visuals** of [**Sloths Intel GitHub**](https://github.com/slothsintel), and [**Daddy Sloth Github**](https://github.com/drxilu).
-
----
-
-# About Sloths Visuals
-
-A creative visualisation brand under [**Sloths Intel**](https://slothsintel.com), specialising in data visulisation and automated illustration pipelines.
+Maintained by [**Sloths Intel GitHub**](https://github.com/slothsintel), and [**Daddy Sloth Github**](https://github.com/drxilu).
 
 ---
 
