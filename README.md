@@ -17,7 +17,7 @@
 [![Static Badge](https://img.shields.io/badge/Chatbot-OpenAI%20%7C%20Anthropic%20%7C%20Gemini%20%7C%20Llama%20%7C%20DeepSeek-purple)]()
 
 
-**AutoVisuals** designed by **SlothsIntel**, is a fully automated pipeline for generating randomised **Midjourney-ready prompts**, sending them to **Discord**, automatically **downloading and splitting MJ images**, and building a stylish **HTML gallery** with zoom navigation, for business design, internal datasets, Adobe Stock, and other illustration stocks.
+**AutoVisuals** designed by **Sloths Intel**, is a fully automated pipeline for generating randomised **Midjourney-ready prompts**, sending them to **Discord**, automatically **downloading and splitting MJ images**, and building a stylish **HTML gallery** with zoom navigation, for business design, internal datasets, Adobe Stock, and other illustration stocks.
 
 ---
 
