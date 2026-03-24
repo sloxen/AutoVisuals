@@ -5,19 +5,19 @@
 
 <img src="docs/autovisuals_hex_icon_simple.svg" align="right" width="180" />
 
-[![Static Badge](https://img.shields.io/badge/License-Sloths_Intel-darkgreen)]()
+[![Static Badge](https://img.shields.io/badge/License-Sloxen™-darkgreen)]()
 [![Static Badge](https://img.shields.io/badge/Build-Passing-%23a9f378)]()
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)]()
 [![Python](https://img.shields.io/badge/Python-3.11+-blue.svg)]()
 [![Status](https://img.shields.io/badge/Project-Active-brightgreen.svg)]()
 
-[![Static Badge](https://img.shields.io/badge/Sloths%20Visuals-Powered-%23f378d0)]()
+![Org](https://img.shields.io/badge/Research-Sloxen™-black)
 [![Platform](https://img.shields.io/badge/Platform-Linux%20%7C%20WSL%20%7C%20macOS-lightgrey.svg)]()
 
-[![Static Badge](https://img.shields.io/badge/Chatbot-OpenAI%20%7C%20Anthropic%20%7C%20Gemini%20%7C%20Llama%20%7C%20DeepSeek-purple)]()
+[![Static Badge](https://img.shields.io/badge/Chatbot-OpenAI%20%7C%20Anthropic%20%7C%20Google%20%7C%20Llama%20%7C%20DeepSeek-purple)]()
 
 
-**AutoVisuals** designed by **Sloths Intel**, is a fully automated pipeline for generating randomised **Midjourney-ready prompts**, sending them to **Discord**, automatically **downloading and splitting MJ images**, and building a stylish **HTML gallery** with zoom navigation, for business design, internal datasets, Adobe Stock, and other illustration stocks.
+**AutoVisuals** designed by **Sloxen™**, is a fully automated pipeline for generating randomised **Midjourney-ready prompts**, sending them to **Discord**, automatically **downloading and splitting MJ images**, and building a stylish **HTML gallery** with zoom navigation, for business design, internal datasets, Adobe Stock, and other illustration stocks.
 
 ---
 
@@ -117,7 +117,7 @@ conda activate autovisuals
 
 Clone the repository.
 ```shell
-git clone https://github.com/slothsintel/AutoVisuals
+git clone https://github.com/sloxen/AutoVisuals
 cd AutoVisuals
 ```
 
@@ -168,7 +168,7 @@ export MJ_CHANNEL_ID="123456789012345678"
 
 ## Install Real-ESRGAN
 
-Follow [this](https://github.com/slothsintel/Real-ESRGAN) or original [instruction](https://github.com/xinntao/Real-ESRGAN) to install Real-ESRGAN. Quick install:
+Follow [this](https://github.com/sloxen/Real-ESRGAN) or original [instruction](https://github.com/xinntao/Real-ESRGAN) to install Real-ESRGAN. Quick install:
 ```shell
 cd AutoVisuals
 git submodule add https://github.com/xinntao/Real-ESRGAN.git Real-ESRGAN
@@ -342,16 +342,15 @@ sunset over mountains,5
 
 # Contribution
 
-Maintained by [**Sloths Intel GitHub**](https://github.com/slothsintel), and [**Daddy Sloth Github**](https://github.com/drxilu).
+Maintained by [**Sloxen™ GitHub**](https://github.com/sloxen), and [**Daddy Sloth Github**](https://github.com/drxilu).
 
 ---
 
 # License
 
-© 2026 **Sloths Intel**.
+© 2026 **Sloxen™**.
 
-A trading name of **Sloths Intel Ltd**
-Registered in England and Wales (Company No. 16907507).
+A trading name of **Sloxen Ltd**, registered in England and Wales (Company number 16907507).
 
 MIT License.
 
@@ -359,9 +358,9 @@ MIT License.
 
 # Links
 
-* [AutoVisuals Website](https://autovisuals.slothsintel.com)
-* [AutoVisuals GitHub](https://github.com/slothsintel/autovisuals)
-* [Company homepage](https://slothsintel.com)
+* [AutoVisuals Website](https://autovisuals.sloxen.com)
+* [AutoVisuals GitHub](https://github.com/sloxen/autovisuals)
+* [Company homepage](https://sloxen.com)
 
 <p align="right">
   <a href="#top" style="text-decoration:none;">
