@@ -342,7 +342,7 @@ sunset over mountains,5
 
 # Contribution
 
-Maintained by [**Sloxen™ GitHub**](https://github.com/sloxen), and [**Daddy Sloth Github**](https://github.com/drxilu).
+Maintained by [**Sloxen™ GitHub**](https://github.com/sloxen), and [**Daddy Sloth Github**](https://github.com/daddysloth).
 
 ---
 
