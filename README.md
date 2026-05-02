@@ -17,7 +17,7 @@
 [![Static Badge](https://img.shields.io/badge/Chatbot-OpenAI%20%7C%20Anthropic%20%7C%20Google%20%7C%20Llama%20%7C%20DeepSeek-purple)]()
 
 
-**AutoVisuals** designed by **Sloxen™**, is a fully automated pipeline for generating randomised **Midjourney-ready prompts**, sending them to **Discord**, automatically **downloading and splitting MJ images**, and building a stylish **HTML gallery** with zoom navigation, for business design, internal datasets, Adobe Stock, and other illustration stocks.
+AutoVisuals, designed by [Sloxen™](https://sloxen.com), is a complete end-to-end [Hybrid Intelligence System (HISx™)](https://sloxen.com/products.html) for automated visual content creation: generating structured Midjourney-ready prompts, orchestrating image production via Discord, automatically retrieving and processing outputs, and building production-ready HTML galleries with zoom navigation for business design, internal datasets, Adobe Stock, and other illustration platforms.
 
 ---
 
